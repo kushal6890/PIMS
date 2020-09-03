@@ -1,0 +1,5 @@
+Robotic Process Automation (RPA) is a process used to automate business operations using robots, in order to reduce human interference.  The main goal of RPA is to eliminate the tedious and repetitive clerical task performed by a human. Now we will have a look at each term of RPA:
+
+Robotics: These are the entities which mimic the actions of humans.
+Process: It is a step by step procedure which leads to an effective activity-for example, the process of building a house.
+Automation: It is defined as a process which is performed by robots without human involvement.
